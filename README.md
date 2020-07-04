@@ -1,1 +1,3 @@
-# fetch-API
+# fetch API
+
+![fetch](fetch.png)
